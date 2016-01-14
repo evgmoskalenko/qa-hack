@@ -2,5 +2,7 @@
 .idea/
 
 #Web
+assets
+index.html
 robots.txt
 #.gitignore
